@@ -8,6 +8,6 @@ This function will return a single boolean. In the case of validating a list of 
 
 ## How to use
 ```
-validateEmails('bezos@amazon.com');
-validateEmails('bezos@amazon.com, bill@microsoft.com');
+validateEmail('bezos@amazon.com');
+validateEmail('bezos@amazon.com, bill@microsoft.com');
 ```
